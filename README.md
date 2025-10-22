@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Muhammad Salman Khalid working as a Senior Software Engineer (AWS/Azure Certified)
 - 👀 I’m interested in learnign New technologies.
 - 🌱 I’m currently learning and working on Generative AI.
-- 📫 How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-muhammad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-salman-khalid-872ba434)
 
 ---
 
