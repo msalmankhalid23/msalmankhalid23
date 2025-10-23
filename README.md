@@ -1,6 +1,17 @@
-- 👋 Hi, I’m Muhammad Salman Khalid working as a Senior Software Engineer (AWS/Azure Certified)
-- 👀 I’m interested in learnign New technologies.
-- 🌱 I’m currently learning and working on Generative AI.
+- 👋 Hi, I’m Muhammad Salman Khalid - Full Stack Developer (AWS/Azure Certified)
+- 👀 Multi dimensional Developer.
+- 🌱 AI Guru.
+- 📫 [![Linkedin Badge](https://img.shields.io/badge/-muhammad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-salman-khalid-872ba434)
+
+🔧 What I Do:
+🗸 Architect and build high-performance RESTful APIs using .NET Core
+🗸 Design scalable, secure backend systems and microservices
+🗸 Optimize SQL queries, stored procedures, and database performance (SQL Server, MySQL, PostgreSQL)
+🗸 Integrate third-party services, cloud components, and enterprise systems
+🗸 Ensure reliability with automated unit testing (NUnit, xUnit, MSTest)
+🗸 Build and scale SaaS MVPs & full-stack web apps
+🗸 Design and optimize APIs (.NET Core, Python/FastAPI)
+🗸 Develop responsive UIs with React or Angular
 
 ---
 
